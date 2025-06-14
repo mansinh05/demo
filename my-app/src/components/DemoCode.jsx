@@ -3,7 +3,7 @@ import React from "react";
 function DemoCode(props){
     return(
         <div>
-        <p>  {props.name}</p>
+        <p>  {props.vansh}</p>
         <p> {props.address}</p>
         <p> {props.tag}  </p>
         </div>
